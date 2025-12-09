@@ -300,6 +300,8 @@ accent = "purple"
 #logo = "lucide/smile"
 #repo = "lucide/smile"
 
+[project.theme.icon.admonition]
+
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
