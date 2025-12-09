@@ -14,6 +14,14 @@ This project is a way to maximize the capabilities of the Ender 5 Max. Creality 
 
     **You have been warned**
 
+## CAD Files
+
+<iframe src="https://unco1.autodesk360.com/shares/public/SH28cd1QT2badd0ea72b91c8bcb635015e0a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+| Part      | Fusion                                                                    | STEP                                                                        |
+| --------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Enclosure | [.f3z](cad/enclosure/Ender%205%20Max%20Manta%20M8P%2048V%20Enclosure.f3z) | [.step](cad/enclosure/Ender%205%20Max%20Manta%20M8P%2048V%20Enclosure.step) |
+
 ## Recommended tools
 
 !!! info
