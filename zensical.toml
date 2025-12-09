@@ -306,7 +306,7 @@ accent = "purple"
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
 [[project.extra.social]]
-icon = "simpleicons/forgejo"
+icon = "simple/forgejo"
 link = "https://git.zevaryx.com/zevaryx/ender-5-mint-edition"
 
 
