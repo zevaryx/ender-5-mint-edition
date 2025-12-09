@@ -308,5 +308,9 @@ accent = "purple"
 [[project.extra.social]]
 icon = "simple/forgejo"
 link = "https://git.zevaryx.com/zevaryx/ender-5-mint-edition"
+name = "Source on Forgejo"
 
-
+[[project.extra.social]]
+icon = "simple/discord"
+link = "https://discord.gg/tGGVn5qjgv"
+name = "SimpleAF Discord"
