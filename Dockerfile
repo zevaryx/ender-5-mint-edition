@@ -1,11 +1,10 @@
-FROM ghcr.io/astral-sh/uv:latest AS builder
+FROM ghcr.io/astral-sh/uv:alpine AS builder
 
 COPY . /app
 
 WORKDIR /app
-RUN uv sync --locked
 
-CMD ["uv", "run", "zensical", "build", "--clean"]
+RUN uv sync --locked && uv run zensical build --clean
 
 FROM nginx:alpine-slim AS website
 
