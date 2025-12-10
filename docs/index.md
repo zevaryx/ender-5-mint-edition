@@ -16,11 +16,11 @@ This project is a way to maximize the capabilities of the Ender 5 Max. Creality 
 
 ## Results
 
-<video width="3840" height="2160" controls>
+<video width="1080" height="1920" controls>
   <source src="media/videos/0-benchy-smaller.mp4" type="video/mp4">
 </video>
 
-<video width="3840" height="2160" controls>
+<video width="1080" height="1920" controls>
   <source src="media/videos/1-benchy-smaller.mp4" type="video/mp4">
 </video>
 
