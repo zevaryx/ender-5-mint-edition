@@ -1,5 +1,5 @@
 ---
-icon: lucide/circuit-board
+icon: lucide/list-checks
 ---
 
 # BOM
@@ -47,9 +47,9 @@ icon: lucide/circuit-board
 
 ### Electronics Enclosure
 
-![Enclosure Mesh](media/Enclosure%20Mesh.png)
-![Enclosure No Mesh](media/Enclosure%20No%20Mesh.png)
-![Enclosure Top-Down](media/Enclosure%20Top-Down.png)
+![Enclosure Mesh](media/bom/Enclosure%20Mesh.png)
+![Enclosure No Mesh](media/bom/Enclosure%20No%20Mesh.png)
+![Enclosure Top-Down](media/bom/Enclosure%20Top-Down.png)
 
 !!! tip "Materials"
 
@@ -96,13 +96,13 @@ icon: lucide/circuit-board
 
     This does not cover fasteners required for the EVA3 toolhead. Please refer to [EVA3 documentation](https://main.eva-3d.page) for fasteners for the toolhead
 
-| Part Name               | Quantity | Required | Notes                                                                      |
-| ----------------------- | -------- | -------- | -------------------------------------------------------------------------- |
-| M3x5x4 Heat-Set Inserts | 21       | Yes      | Voron size, CNCKitchen has good ones                                       |
-| M3 Nuts                 | 10       | Yes      | For C14 Inlet and 4010 fan mounts                                          |
-| M3x4 SHCS               | 4        | Yes      | For M8P                                                                    |
-| M3x6 SHCS               | 28       | Yes      | For mounting SSR, Meshes, main body to printer, and combining main printer |
-| M3x8 Countersunk        | 2        | Yes      | For C14 inlet, can use SHCS instead if necessary                           |
-| M3x16 SHCS              | 17       | 17       | For fans and mounting meshes to printer frame                              |
-| M4x8 SHCS               | 8        | Yes      | For power supplies, only need 4 if doing 24V only                          |
-| M4x35 SHCS              | 4        | Yes      | For mounting the feet extensions to raise the printer                      |
+| Part Name               | Quantity | Required | Notes                                                                    |
+| ----------------------- | -------- | -------- | ------------------------------------------------------------------------ |
+| M3x5x4 Heat-Set Inserts | 21       | Yes      | Voron size, CNCKitchen has good ones                                     |
+| M3 Nuts                 | 10       | Yes      | For C14 Inlet and 4010 fan mounts                                        |
+| M3x4 SHCS               | 4        | Yes      | For M8P                                                                  |
+| M3x6 SHCS               | 28       | Yes      | For mounting SSR, Meshes, main body to printer, and combining main parts |
+| M3x8 Countersunk        | 2        | Yes      | For C14 inlet, can use SHCS instead if necessary                         |
+| M3x16 SHCS              | 17       | 17       | For fans and mounting meshes to printer frame                            |
+| M4x8 SHCS               | 8        | Yes      | For power supplies, only need 4 if doing 24V only                        |
+| M4x35 SHCS              | 4        | Yes      | For mounting the feet extensions to raise the printer                    |
