@@ -48,6 +48,7 @@ The electronics enclosure is printed in 6 parts (refer to the [BOM](bom.md)).
 
 8. Mount the electronics enclosure in place of the original enclosure, using M3x6 SHCS. No pictures for this step :cry:
 9. Using the 4 M4x35 SHCS, mount the feet extensions to the bottom of the printer, re-using the original rubber feet and washer for vibration dampening
+10. Using 8 M3x16 SHCS and 8 M3 nuts, mount the 4010 axial fans to the M8P mesh part. There are specific mounting holes for these. **Make sure** the blades will pull air into the enclosure!
 
 ### Wiring
 
