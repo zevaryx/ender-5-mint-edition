@@ -60,8 +60,8 @@ Wire everything together! Refer to the picture and to the diagram for more infor
 
 | Source              | Destination         | Color | Multiple Crimp at Destination |
 | ------------------- | ------------------- | ----- | ----------------------------- |
-| IEC 14 Top          | KDC Rocker Top      | Red   | No                            |
-| KDC Rocker Middle   | LRS-200-48 Live (L) | Red   | Yes                           |
+| IEC 14 Top          | KCD Rocker Top      | Red   | No                            |
+| KCD Rocker Middle   | LRS-200-48 Live (L) | Red   | Yes                           |
 | LRS-200-48 Live (L) | LRS-350-24 Live (L) | Red   | Yes                           |
 | LRS-350-24 Live (L) | SSR Port 2          | Red   | No                            |
 
@@ -82,7 +82,7 @@ Wire everything together! Refer to the picture and to the diagram for more infor
 | ---------------------- | ---------------------- | ----- | ----------------------------- |
 | IEC 14 Middle          | LRS-350-24 Neutral (N) | Black | Yes                           |
 | LRS-350-24 Neutral (N) | LRS-200-48 Neutral (N) | Black | Yes                           |
-| LRS-200-48 Neutral (N) | KDC Rocker Bottom      | Black | Yes                           |
+| LRS-200-48 Neutral (N) | KCD Rocker Bottom      | Black | Yes                           |
 
 #### 24V V+ and V-
 
