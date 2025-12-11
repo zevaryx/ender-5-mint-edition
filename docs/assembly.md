@@ -2,7 +2,7 @@
 icon: lucide/wrench
 ---
 
-# Assembly
+# Hardware Assembly
 
 !!! danger "Minimal Documentation"
 

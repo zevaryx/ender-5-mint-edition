@@ -48,6 +48,7 @@ nav = [
   { "Getting Started" = "index.md" },
   { "BOM" = "bom.md" },
   { "Assembly" = "assembly.md" },
+  { "Configuration" = "config.md" },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize

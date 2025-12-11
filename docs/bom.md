@@ -2,7 +2,7 @@
 icon: lucide/list-checks
 ---
 
-# BOM
+# Bill of Materials
 
 ## Electronics
 
