@@ -29,6 +29,10 @@ site_author = "zevaryx"
 # Read more: https://zensical.org/docs/setup/basics/#site_url
 site_url = "https://docs.e5max.zevs.me"
 
+repo_url = "https://git.zevaryx.com/zevaryx/ender-5-mint-edition"
+repo_name = "zevaryx/ender-5-mint-edition"
+
+
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
 #
@@ -301,6 +305,9 @@ accent = "purple"
 #[project.theme.icon]
 #logo = "lucide/smile"
 #repo = "lucide/smile"
+
+[project.theme.icon]
+repo = "simple/forgejo"
 
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.

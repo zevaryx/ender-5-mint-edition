@@ -26,11 +26,21 @@ This project is a way to maximize the capabilities of the Ender 5 Max. Creality 
 
 ## CAD Files
 
+### Enclosure
+
 <iframe src="https://unco1.autodesk360.com/shares/public/SH28cd1QT2badd0ea72b91c8bcb635015e0a?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-| Part      | Fusion                                                                    | STEP                                                                        |
-| --------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Enclosure | [.f3z](cad/enclosure/Ender%205%20Max%20Manta%20M8P%2048V%20Enclosure.f3z) | [.step](cad/enclosure/Ender%205%20Max%20Manta%20M8P%2048V%20Enclosure.step) |
+### EVA3 UHF Duct for Cartographer V4
+
+Uses a Rapido 2 UHF hotend as the example
+
+<iframe src="https://unco1.autodesk360.com/shares/public/SH28cd1QT2badd0ea72b017430b5294d3c46?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+| Part          | Fusion                                                                    | STEP                                                                        |
+| ------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Enclosure     | [.f3z](cad/enclosure/Ender%205%20Max%20Manta%20M8P%2048V%20Enclosure.f3z) | [.step](cad/enclosure/Ender%205%20Max%20Manta%20M8P%2048V%20Enclosure.step) |
+| EVA3 UHF Duct | [.f3z](cad/eva3/EVA3%20UHF%20Duct%20Cartographer%20V4.f3d)                | [.step](cad/eva3/EVA3%20UHF%20Duct%20Cartographer%20V4.step)                |
 
 ## Recommended tools
 

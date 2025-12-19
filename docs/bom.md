@@ -86,9 +86,10 @@ icon: lucide/list-checks
 
 ### Other parts
 
-| Part Name     | Quantity | Required | Download                                            | Notes                                                                        |
-| ------------- | -------- | -------- | --------------------------------------------------- | ---------------------------------------------------------------------------- |
-| E5M SFS Mount | 1        | No       | [E5M SFS Mount.stl](stl/eva3/E5M%20SFS%20Mount.stl) | Not required but highly recommended for filament runout and cable management |
+| Part Name                     | Quantity | Required | Download                                                                                | Notes                                                                        |
+| ----------------------------- | -------- | -------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| E5M SFS Mount                 | 1        | No       | [E5M SFS Mount.stl](stl/eva3/E5M%20SFS%20Mount.stl)                                     | Not required but highly recommended for filament runout and cable management |
+| EVA3 Cartographer V4 UHF duct | 1        | No       | [EVA3 UHF Duct Cartographer V4.3mf](stl/eva3/EVA3%20UHF%20Duct%20Cartographer%20V4.3mf) | Carto V4 compatible with Rapido 2 UHF                                        |
 
 ## Fasteners and Inserts
 
